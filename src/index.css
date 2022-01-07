@@ -4,3 +4,25 @@ html, body {
     font-family: Helvetica, Arial, sans-serif;
     padding: 70px;
 }
+
+.buttons-container {
+    text-align: center;
+}
+
+.button-minus {
+    margin-left: 20px;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+}
+
+
+
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}

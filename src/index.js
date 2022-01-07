@@ -4,7 +4,7 @@ import { CounterApp } from './CounterApp';
 
 ReactDOM.render(
   <React.StrictMode>
-    <CounterApp/>
+    <CounterApp value={ 5 } />
   </React.StrictMode>,
   document.getElementById('root')
 );
